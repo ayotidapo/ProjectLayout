@@ -1,0 +1,7 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="30" cy="30" r="29" stroke="#DFE2E6" stroke-width="2"/>
+<mask id="path-2-inside-1" fill="white">
+<path d="M30 0C33.9397 0 37.8407 0.775974 41.4805 2.28362C45.1203 3.79126 48.4274 6.00104 51.2132 8.7868L30 30V0Z"/>
+</mask>
+<path d="M30 0C33.9397 0 37.8407 0.775974 41.4805 2.28362C45.1203 3.79126 48.4274 6.00104 51.2132 8.7868L30 30V0Z" fill="#21B787" stroke="#21B787" stroke-width="16" mask="url(#path-2-inside-1)"/>
+</svg>

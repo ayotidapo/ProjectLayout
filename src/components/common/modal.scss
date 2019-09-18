@@ -1,0 +1,32 @@
+.hide {
+  opacity: 0;
+  transition: opacity 0.15s linear !important;
+}
+.open {
+  opacity: 1;
+}
+.modalxsform {
+  display: block;
+  margin-top: 0em;
+  margin-block-end: 1em;
+}
+.fw-bolder {
+  font-weight: 300;
+}
+
+.nanotext {
+  font-size: 1.2rem;
+}
+
+.input-lb {
+  display: block;
+  margin-top: 0em;
+  margin-block-end: 1em;
+}
+.hover:hover {
+  cursor: pointer;
+}
+
+.uk-modal-dialog_enrol {
+  width: 70%;
+}

@@ -1,0 +1,167 @@
+.Auth .mt-2custom {
+  margin-bottom: 2rem !important;
+  margin-top: 1rem !important; }
+
+.Auth .login-layout-section .mt-2custom {
+  margin-bottom: 2rem !important; }
+
+.Auth .find_school {
+  height: 100vh; }
+  .Auth .find_school .in-block {
+    display: inline-block !important;
+    padding-top: 7px; }
+  .Auth .find_school .search_div_wrapper {
+    width: 350px;
+    margin: 100px auto;
+    margin-top: 128px; }
+  .Auth .find_school .btm {
+    text-align: center; }
+  .Auth .find_school .logo_wrapper {
+    text-align: center;
+    padding: 55px 0px; }
+  .Auth .find_school .wlc span {
+    display: block;
+    text-align: center; }
+  .Auth .find_school .css-1pahdxg-control {
+    min-height: 45.78px;
+    text-transform: capitalize !important; }
+    .Auth .find_school .css-1pahdxg-control::before {
+      font-family: FontAwesome;
+      content: '\f002';
+      font-weight: lighter;
+      font-size: 1.85rem;
+      padding-left: 15px;
+      color: #c8c8c8; }
+  .Auth .find_school .css-yk16xz-control {
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: white;
+    border-color: #cccccc;
+    border-radius: 6px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: default;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    min-height: 38px;
+    outline: 0 !important;
+    position: relative;
+    -webkit-transition: all 100ms;
+    transition: all 100ms;
+    box-sizing: border-box;
+    height: 45.78px; }
+    .Auth .find_school .css-yk16xz-control::before {
+      font-family: FontAwesome;
+      content: '\f002';
+      font-weight: lighter;
+      font-size: 1.85rem;
+      padding-left: 15px;
+      color: #c8c8c8; }
+  .Auth .find_school .slct {
+    text-transform: capitalize !important;
+    font-family: 'GorditaRegular'; }
+  .Auth .find_school .search input {
+    margin: 0;
+    width: 100%;
+    display: block;
+    min-width: 310px;
+    font-size: 1.6rem;
+    padding: 1.64rem 4rem;
+    border: 1px solid #e9ebee;
+    background-color: #fff;
+    border-radius: 6px;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 16px white;
+    box-shadow: 0 0 0 0px #fff; }
+  .Auth .find_school .css-1hwfws3 {
+    box-shadow: 0 0 0 0px #fff; }
+  .Auth .find_school .in-block {
+    display: inline-block !important;
+    padding-top: 7px; }
+  .Auth .find_school .css-tlfecz-indicatorContainer {
+    color: #cccccc;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 8px;
+    -webkit-transition: color 150ms;
+    transition: color 150ms;
+    box-sizing: border-box;
+    display: none !important; }
+  .Auth .find_school .css-1gtu0rj-indicatorContainer {
+    display: none !important; }
+  .Auth .find_school .select {
+    background: blue !important; }
+    .Auth .find_school .select input {
+      box-shadow: none !important;
+      height: 35px;
+      padding-left: 5px;
+      padding-right: 5px;
+      font-family: 'GorditaMedium';
+      font-size: 1.7rem;
+      text-transform: capitalize !important; }
+      .Auth .find_school .select input::before {
+        font-family: FontAwesome;
+        content: '\f002';
+        color: #c8c8c8;
+        font-size: 1.85rem;
+        padding-left: 15px; }
+  .Auth .find_school .cssw8afj7-Input {
+    text-transform: capitalize !important; }
+    .Auth .find_school .cssw8afj7-Input input {
+      margin: 0;
+      width: 100%;
+      display: block;
+      min-width: 310px;
+      font-size: 1.6rem;
+      padding: 1.64rem 4rem;
+      border: 1px solid #e9ebee;
+      background-color: #fff;
+      border-radius: 6px;
+      box-sizing: border-box;
+      box-shadow: 0px 4px 16px rgba(236, 236, 236, 0.1) !important;
+      text-transform: capitalize !important; }
+  .Auth .find_school .css-w8afj7-Input input {
+    box-shadow: none !important; }
+  .Auth .find_school .css-1pahdxg-control:hover,
+  .Auth .find_school .css-1pahdxg-control:focus {
+    border-color: none !important;
+    min-height: 45.78px;
+    border-radius: 4px; }
+    .Auth .find_school .css-1pahdxg-control:hover::before,
+    .Auth .find_school .css-1pahdxg-control:focus::before {
+      font-family: FontAwesome;
+      content: '\f002';
+      font-weight: lighter;
+      font-size: 1.85rem;
+      padding-left: 15px;
+      color: #c8c8c8; }
+  .Auth .find_school .css-1hwfws3 {
+    border-color: none !important;
+    box-shadow: 0 0 0 0px #fff;
+    border-radius: 4px; }
+  .Auth .find_school .css-yk16xz-control {
+    background-color: white;
+    border-color: #cccccc; }
+
+.Auth .css-1okebmr-indicatorSeparator {
+  -webkit-align-self: stretch;
+  -ms-flex-item-align: stretch;
+  align-self: stretch;
+  background-color: #cccccc;
+  margin-bottom: 8px;
+  margin-top: 8px;
+  width: 0px !important;
+  box-sizing: border-box; }

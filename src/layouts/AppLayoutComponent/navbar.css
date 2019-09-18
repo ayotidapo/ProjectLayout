@@ -1,0 +1,9 @@
+@media only screen and (max-width: 425px) {
+  .height-100-pc {
+    height: 70px; } }
+
+.navi_active {
+  border-left: 4px solid #07f !important; }
+
+.activ_color {
+  color: #000; }

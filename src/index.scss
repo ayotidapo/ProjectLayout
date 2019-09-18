@@ -1,0 +1,234 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
+html {
+  scroll-behavior: smooth;
+}
+.Toastify__toast-container {
+  width: auto !important;
+}
+
+.Toastify__toast--success,
+.Toastify__toast--error {
+  background: #fff !important;
+  color: #131200 !important;
+  box-shadow: 0 5px 15px rgba (0, 0, 0, 0.08) !important;
+  border-radius: 1rem !important;
+  padding: 2rem !important;
+}
+
+.Toastify__toast-body {
+  font-size: 13px !important;
+  padding-left: 35px !important;
+  font-family: 'soleil', sans-serif !important;
+  line-height: 1.75555 !important;
+  font-weight: bold;
+}
+
+/* .Toastify__toast--error > .Toastify__toast-body::before {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  background: url('/uploads/icons/wrong.svg');
+  background-repeat: no-repeat;
+  left: 25px;
+  top: 25px;
+  width: 10%;
+  height: 50%;
+  z-index: 2;
+} */
+
+.Toastify__toast--success > .Toastify__toast-body::before {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  background: url('/uploads/images/check.png');
+  background-repeat: no-repeat;
+  left: 25px;
+  top: 25px;
+  width: 10%;
+  height: 50%;
+  z-index: 2;
+}
+
+.Toastify__close-button {
+  color: black !important;
+}
+
+.Toastify__close-button {
+  margin-left: 20px !important;
+}
+#main {
+  overflow-x: visible !important;
+}
+.main_div {
+  height: 100vh;
+  overflow-y: scroll;
+  background: #ffffff;
+}
+
+.form_clone {
+  display: block;
+  margin-top: 0em;
+  margin-block-end: 1em;
+}
+
+.hand:hover {
+  cursor: pointer !important;
+}
+.sroll4enroladd {
+  padding-right: 15px;
+}
+.sroll4enrolrem {
+  padding-right: 10px;
+}
+.new_added {
+  background: #c7efcf;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+.mb-2twk {
+  margin-bottom: 4.2rem;
+}
+
+.Inputerr {
+  color: red;
+  font-size: 1.35rem;
+  display: inline-block;
+  padding-top: 7px;
+}
+.dizabled {
+  background-color: #bbd1ea !important;
+}
+.dizabled:hover {
+  &:hover {
+    cursor: not-allowed;
+  }
+}
+
+.capitalize {
+  text-transform: capitalize !important;
+}
+
+.zero-index {
+  z-index: 0;
+}
+.answered-question2 {
+  background: rgb(0, 119, 255);
+  color: #fff;
+}
+
+.Prv {
+  .koya-main-logo {
+    width: 70px;
+    height: 50px;
+  }
+  .container_div {
+    width: 85%;
+    margin: 0 2% 0 10%;
+  }
+  .priv-header {
+    background: #dfe2e6;
+
+    padding-top: 41px;
+    .head_content-wrap {
+      display: flex;
+      justify-content: space-between;
+    }
+    .item1 {
+      span {
+        display: inline-block;
+      }
+      p {
+        color: #111111;
+        font-size: 2.12rem;
+      }
+    }
+    .item2 {
+      margin-left: auto;
+      width: 350px;
+      height: 160px;
+      img {
+        max-height: 100%;
+      }
+    }
+  }
+
+  .row2 {
+    padding: 40px 0px;
+    .content_wrapper {
+      width: 80%;
+      font-size: 14px;
+      line-height: 30px;
+      color: #000000 !important;
+      p {
+        color: #000000 !important;
+        margin-bottom: 2.7rem;
+      }
+      h5 {
+        color: #0077ff;
+        font-family: 'GorditaRegular' !important;
+        font-weight: bolder !important;
+      }
+      .ul-lst {
+        li {
+          list-style: decimal;
+        }
+      }
+      .hdngz {
+        font-weight: bold;
+        margin-bottom: 1.5rem;
+      }
+      dt {
+        font-weight: bolder;
+      }
+      strong {
+        font-weight: bolder;
+        font-size: 1.6rem;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .Prv {
+    .container_div {
+      width: 90%;
+      margin: 0 2% 0 5%;
+    }
+    .row2 {
+      .content_wrapper {
+        width: 100%;
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+.btn-case-g {
+  display: flex;
+  justify-content: space-between;
+}
+.btn-wyt-plain {
+  box-shadow: none !important;
+  background-color: #fff !important;
+  box-shadow: none !important;
+  color: #737a91;
+  &:focus {
+    outline-color: #fff;
+  }
+  &:hover {
+    color: #474a52;
+  }
+}
